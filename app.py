@@ -9,9 +9,6 @@ import datetime
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 import calendar
-import plotly.express as px
-import psutil
-import kaleido
 st.set_page_config(page_title="Dahlia", page_icon="random", layout="wide", initial_sidebar_state="expanded")
 st.title("Dahlia")
 
