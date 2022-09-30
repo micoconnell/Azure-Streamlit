@@ -1,7 +1,5 @@
 #streamlit run project_contents/app/app.py
-from tkinter import W
-from tokenize import String
-from turtle import title
+
 import streamlit as st
 import pyodbc
 import pandas as pd
