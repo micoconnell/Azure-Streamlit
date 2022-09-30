@@ -1,2 +1,10 @@
-# requirements.txt
-pyodbc==4.0.32
+pyodbc
+pandas
+streamlit
+matplotlib
+numpy
+calendar
+plotly
+turtle
+tokenize
+tkinter
